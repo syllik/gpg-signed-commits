@@ -156,6 +156,7 @@ git config --show-origin --get user.email
 git config --show-origin --get user.signingkey
 git config --show-origin --get commit.gpgsign
 git config --show-origin --get gpg.program
+git config --show-origin --get gpg.format
 ~~~
 
 If a line begins with `file:.git/config`, it overrides the global value. Remove an unwanted local identity from inside that repository with:
@@ -245,7 +246,7 @@ Renew an expiring key before it expires and update GitHub when appropriate. With
 
 Back up the private key and revocation certificate offline, encrypted and separately from your computer. Never put them in this repository. The public key may be shared; the secret key may not.
 
-🌿 [YouTube — @plainsight37](https://youtube.com/@plainsight37) · [Instagram — @fly_lume](https://instagram.com/fly_lume)
+🌿 [GitHub](https://github.com/syllik) · [syllik@gmail.com](mailto:syllik@gmail.com)
 
 <details>
 <summary>✨ A note for the future</summary>

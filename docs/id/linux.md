@@ -130,6 +130,7 @@ git config --show-origin --get user.email
 git config --show-origin --get user.signingkey
 git config --show-origin --get commit.gpgsign
 git config --show-origin --get gpg.program
+git config --show-origin --get gpg.format
 ~~~
 
 `file:.git/config` lebih tinggi prioritasnya. Hapus identitas lokal dengan:
@@ -161,7 +162,7 @@ Cari `gpg: Good signature from ...`, jalankan `git push`, lalu periksa `Verified
 
 Simpan cadangan terenkripsi offline untuk kunci privat dan sertifikat pencabutan. Bagikan hanya kunci publik.
 
-🌿 [YouTube — @plainsight37](https://youtube.com/@plainsight37) · [Instagram — @fly_lume](https://instagram.com/fly_lume)
+🌿 [GitHub](https://github.com/syllik) · [syllik@gmail.com](mailto:syllik@gmail.com)
 
 <details>
 <summary>✨ Catatan untuk masa depan</summary>

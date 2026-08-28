@@ -130,6 +130,7 @@ git config --show-origin --get user.email
 git config --show-origin --get user.signingkey
 git config --show-origin --get commit.gpgsign
 git config --show-origin --get gpg.program
+git config --show-origin --get gpg.format
 ~~~
 
 لـ`file:.git/config` أولوية أعلى. احذف الهوية المحلية:
@@ -161,7 +162,7 @@ git verify-commit HEAD
 
 احفظ المفتاح الخاص وشهادة الإلغاء مشفرين وغير متصلين. شارك المفتاح العام فقط.
 
-🌿 [YouTube — @plainsight37](https://youtube.com/@plainsight37) · [Instagram — @fly_lume](https://instagram.com/fly_lume)
+🌿 [GitHub](https://github.com/syllik) · [syllik@gmail.com](mailto:syllik@gmail.com)
 
 <details>
 <summary>✨ ملاحظة للمستقبل</summary>

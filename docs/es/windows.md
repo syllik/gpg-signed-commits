@@ -102,6 +102,7 @@ git config --show-origin --get user.email
 git config --show-origin --get user.signingkey
 git config --show-origin --get commit.gpgsign
 git config --show-origin --get gpg.program
+git config --show-origin --get gpg.format
 ~~~
 
 `file:.git/config` tiene prioridad. Dentro del repositorio:
@@ -133,7 +134,7 @@ Kleopatra o pinentry pedirá la frase. Busca `gpg: Good signature from ...`, eje
 
 Con Kleopatra o GnuPG, conserva una copia cifrada y sin conexión de la clave privada y del certificado de revocación. Comparte solo la clave pública.
 
-🌿 [YouTube — @plainsight37](https://youtube.com/@plainsight37) · [Instagram — @fly_lume](https://instagram.com/fly_lume)
+🌿 [GitHub](https://github.com/syllik) · [syllik@gmail.com](mailto:syllik@gmail.com)
 
 <details>
 <summary>✨ Una nota para el futuro</summary>

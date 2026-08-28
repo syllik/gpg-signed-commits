@@ -162,6 +162,7 @@ git config --show-origin --get user.email
 git config --show-origin --get user.signingkey
 git config --show-origin --get commit.gpgsign
 git config --show-origin --get gpg.program
+git config --show-origin --get gpg.format
 ~~~
 
 `file:.git/config` is local and overrides global config. Remove an unwanted local identity with no `--global`:
@@ -196,7 +197,7 @@ Look for `gpg: Good signature from ...`. Push with `git push` and open the commi
 
 Keep an encrypted offline backup of the private key and revocation certificate. The public key is shareable; the secret key is not.
 
-🌿 [YouTube — @plainsight37](https://youtube.com/@plainsight37) · [Instagram — @fly_lume](https://instagram.com/fly_lume)
+🌿 [GitHub](https://github.com/syllik) · [syllik@gmail.com](mailto:syllik@gmail.com)
 
 <details>
 <summary>✨ A note for the future</summary>

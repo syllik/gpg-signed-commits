@@ -132,6 +132,7 @@ git config --show-origin --get user.email
 git config --show-origin --get user.signingkey
 git config --show-origin --get commit.gpgsign
 git config --show-origin --get gpg.program
+git config --show-origin --get gpg.format
 ~~~
 
 `file:.git/config` prevalece. Remova uma identidade local com:
@@ -163,7 +164,7 @@ Procure `gpg: Good signature from ...`, faça `git push` e confirme `Verified` n
 
 Guarde uma cópia offline e criptografada da chave privada e do certificado de revogação. Compartilhe somente a chave pública.
 
-🌿 [YouTube — @plainsight37](https://youtube.com/@plainsight37) · [Instagram — @fly_lume](https://instagram.com/fly_lume)
+🌿 [GitHub](https://github.com/syllik) · [syllik@gmail.com](mailto:syllik@gmail.com)
 
 <details>
 <summary>✨ Uma nota para o futuro</summary>

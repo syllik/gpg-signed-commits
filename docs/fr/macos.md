@@ -111,6 +111,7 @@ git config --show-origin --get user.email
 git config --show-origin --get user.signingkey
 git config --show-origin --get commit.gpgsign
 git config --show-origin --get gpg.program
+git config --show-origin --get gpg.format
 ~~~
 
 Une valeur provenant de `file:.git/config` remplace la valeur globale. Dans le dépôt, retirez une identité locale avec :
@@ -146,7 +147,7 @@ Vous devez voir `gpg: Good signature from ...`. Faites `git push` puis ouvrez le
 
 Conservez hors ligne une copie chiffrée de la clé privée et du certificat de révocation. Ne partagez que la clé publique.
 
-🌿 [YouTube — @plainsight37](https://youtube.com/@plainsight37) · [Instagram — @fly_lume](https://instagram.com/fly_lume)
+🌿 [GitHub](https://github.com/syllik) · [syllik@gmail.com](mailto:syllik@gmail.com)
 
 <details>
 <summary>✨ Une note pour l'avenir</summary>

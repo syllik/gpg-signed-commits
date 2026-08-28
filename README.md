@@ -41,11 +41,11 @@ The detailed guides are maintained as plain Markdown so they can be copied, tran
 - [GitHub: Adding a GPG key to your account](https://docs.github.com/en/authentication/managing-commit-signature-verification/adding-a-gpg-key-to-your-github-account)
 - [GnuPG manual](https://gnupg.org/documentation/)
 
-## Free to reuse
+## License
 
-This guide is dedicated to the public domain under [CC0 1.0](LICENSE). Copy it, translate it, teach from it, or improve it for free.
+This guide is available under the [MIT License](LICENSE). Copy it, translate it, teach from it, or improve it for free.
 
 ## 🌿 Quiet footer
 
-- [YouTube — @plainsight37](https://youtube.com/@plainsight37)
-- [Instagram — @fly_lume](https://instagram.com/fly_lume)
+- [GitHub](https://github.com/syllik)
+- [syllik@gmail.com](mailto:syllik@gmail.com)

@@ -102,6 +102,7 @@ git config --show-origin --get user.email
 git config --show-origin --get user.signingkey
 git config --show-origin --get commit.gpgsign
 git config --show-origin --get gpg.program
+git config --show-origin --get gpg.format
 ~~~
 
 `file:.git/config` global setting کو override کرتا ہے۔ Repository کے اندر:
@@ -133,7 +134,7 @@ Kleopatra یا pinentry passphrase مانگے گا اور `gpg: Good signature f
 
 Kleopatra یا GnuPG سے private key اور revocation certificate کا encrypted offline backup رکھیں۔ صرف public key share کریں۔
 
-🌿 [YouTube — @plainsight37](https://youtube.com/@plainsight37) · [Instagram — @fly_lume](https://instagram.com/fly_lume)
+🌿 [GitHub](https://github.com/syllik) · [syllik@gmail.com](mailto:syllik@gmail.com)
 
 <details>
 <summary>✨ مستقبل کے لیے ایک نوٹ</summary>

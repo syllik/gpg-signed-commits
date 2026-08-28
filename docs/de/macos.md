@@ -111,6 +111,7 @@ git config --show-origin --get user.email
 git config --show-origin --get user.signingkey
 git config --show-origin --get commit.gpgsign
 git config --show-origin --get gpg.program
+git config --show-origin --get gpg.format
 ~~~
 
 `file:.git/config` hat Vorrang vor der globalen Konfiguration. Entferne im Repository eine unerwünschte lokale Identität ohne `--global`:
@@ -142,7 +143,7 @@ Erwarte eine Meldung wie `gpg: Good signature from ...`. Führe `git push` aus u
 
 Bewahre private Schlüssel und Widerrufszertifikat verschlüsselt und offline auf. Teile nur den öffentlichen Schlüssel.
 
-🌿 [YouTube — @plainsight37](https://youtube.com/@plainsight37) · [Instagram — @fly_lume](https://instagram.com/fly_lume)
+🌿 [GitHub](https://github.com/syllik) · [syllik@gmail.com](mailto:syllik@gmail.com)
 
 <details>
 <summary>✨ Eine Notiz für die Zukunft</summary>

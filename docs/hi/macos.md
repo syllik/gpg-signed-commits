@@ -111,6 +111,7 @@ git config --show-origin --get user.email
 git config --show-origin --get user.signingkey
 git config --show-origin --get commit.gpgsign
 git config --show-origin --get gpg.program
+git config --show-origin --get gpg.format
 ~~~
 
 `file:.git/config` global config पर प्राथमिकता रखता है। उसी repository में local identity हटाएँ, `--global` न लगाएँ:
@@ -144,7 +145,7 @@ git verify-commit HEAD
 
 Private key और revocation certificate का encrypted offline backup रखें। केवल public key share करें।
 
-🌿 [YouTube — @plainsight37](https://youtube.com/@plainsight37) · [Instagram — @fly_lume](https://instagram.com/fly_lume)
+🌿 [GitHub](https://github.com/syllik) · [syllik@gmail.com](mailto:syllik@gmail.com)
 
 <details>
 <summary>✨ भविष्य के लिए एक नोट</summary>

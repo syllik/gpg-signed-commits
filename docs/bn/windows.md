@@ -102,6 +102,7 @@ git config --show-origin --get user.email
 git config --show-origin --get user.signingkey
 git config --show-origin --get commit.gpgsign
 git config --show-origin --get gpg.program
+git config --show-origin --get gpg.format
 ~~~
 
 `file:.git/config` global-এর ওপর priority পায়। Repository-তে:
@@ -133,7 +134,7 @@ Kleopatra বা pinentry passphrase চাইবে এবং `gpg: Good signat
 
 Kleopatra বা GnuPG দিয়ে private key ও revocation certificate-এর encrypted offline backup রাখুন। শুধু public key share করুন।
 
-🌿 [YouTube — @plainsight37](https://youtube.com/@plainsight37) · [Instagram — @fly_lume](https://instagram.com/fly_lume)
+🌿 [GitHub](https://github.com/syllik) · [syllik@gmail.com](mailto:syllik@gmail.com)
 
 <details>
 <summary>✨ ভবিষ্যতের জন্য একটি নোট</summary>

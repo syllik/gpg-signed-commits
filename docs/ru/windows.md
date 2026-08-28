@@ -102,6 +102,7 @@ git config --show-origin --get user.email
 git config --show-origin --get user.signingkey
 git config --show-origin --get commit.gpgsign
 git config --show-origin --get gpg.program
+git config --show-origin --get gpg.format
 ~~~
 
 `file:.git/config` важнее глобальной настройки. В репозитории:
@@ -133,7 +134,7 @@ Kleopatra или pinentry запросит пароль. Ищите `gpg: Good s
 
 В Kleopatra или GnuPG храните зашифрованную офлайн-копию закрытого ключа и сертификата отзыва. Делитесь только открытым ключом.
 
-🌿 [YouTube — @plainsight37](https://youtube.com/@plainsight37) · [Instagram — @fly_lume](https://instagram.com/fly_lume)
+🌿 [GitHub](https://github.com/syllik) · [syllik@gmail.com](mailto:syllik@gmail.com)
 
 <details>
 <summary>✨ Заметка на будущее</summary>

@@ -121,6 +121,7 @@ git config --show-origin --get user.email
 git config --show-origin --get user.signingkey
 git config --show-origin --get commit.gpgsign
 git config --show-origin --get gpg.program
+git config --show-origin --get gpg.format
 ~~~
 
 看到 `file:.git/config` 就表示该值来自本地配置。进入该仓库后，用下面命令移除不需要的本地身份；不要加 `--global`：
@@ -155,7 +156,7 @@ git verify-commit HEAD
 
 离线、加密备份私钥和撤销证书，不要放进此仓库。公钥可以分享，秘密密钥不可以。
 
-🌿 [YouTube — @plainsight37](https://youtube.com/@plainsight37) · [Instagram — @fly_lume](https://instagram.com/fly_lume)
+🌿 [GitHub](https://github.com/syllik) · [syllik@gmail.com](mailto:syllik@gmail.com)
 
 <details>
 <summary>✨ 给未来的一句话</summary>

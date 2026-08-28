@@ -111,6 +111,7 @@ git config --show-origin --get user.email
 git config --show-origin --get user.signingkey
 git config --show-origin --get commit.gpgsign
 git config --show-origin --get gpg.program
+git config --show-origin --get gpg.format
 ~~~
 
 Nilai dari `file:.git/config` mengalahkan konfigurasi global. Dari dalam repositori, hapus identitas lokal yang tidak diinginkan tanpa `--global`:
@@ -142,7 +143,7 @@ Cari pesan `gpg: Good signature from ...`. Jalankan `git push` dan buka commit d
 
 Simpan cadangan terenkripsi dan offline untuk kunci privat serta sertifikat pencabutan. Bagikan hanya kunci publik.
 
-🌿 [YouTube — @plainsight37](https://youtube.com/@plainsight37) · [Instagram — @fly_lume](https://instagram.com/fly_lume)
+🌿 [GitHub](https://github.com/syllik) · [syllik@gmail.com](mailto:syllik@gmail.com)
 
 <details>
 <summary>✨ Catatan untuk masa depan</summary>

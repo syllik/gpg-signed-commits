@@ -106,6 +106,7 @@ git config --show-origin --get user.email
 git config --show-origin --get user.signingkey
 git config --show-origin --get commit.gpgsign
 git config --show-origin --get gpg.program
+git config --show-origin --get gpg.format
 ~~~
 
 `file:.git/config` 会覆盖全局设置。在仓库中用以下命令移除本地身份，不要加 `--global`：
@@ -139,7 +140,7 @@ Kleopatra 或 pinentry 应请求密码，并出现 `gpg: Good signature from ...
 
 用 Kleopatra 或 GnuPG 加密保存私钥和撤销证书的离线备份，只分享公钥。
 
-🌿 [YouTube — @plainsight37](https://youtube.com/@plainsight37) · [Instagram — @fly_lume](https://instagram.com/fly_lume)
+🌿 [GitHub](https://github.com/syllik) · [syllik@gmail.com](mailto:syllik@gmail.com)
 
 <details>
 <summary>✨ 给未来的一句话</summary>

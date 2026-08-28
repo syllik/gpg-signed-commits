@@ -130,6 +130,7 @@ git config --show-origin --get user.email
 git config --show-origin --get user.signingkey
 git config --show-origin --get commit.gpgsign
 git config --show-origin --get gpg.program
+git config --show-origin --get gpg.format
 ~~~
 
 `file:.git/config` hat Vorrang. Entferne lokale Identitätswerte mit:
@@ -161,7 +162,7 @@ Suche `gpg: Good signature from ...`, führe `git push` aus und prüfe `Verified
 
 Bewahre privaten Schlüssel und Widerrufszertifikat verschlüsselt offline auf. Teile nur den öffentlichen Schlüssel.
 
-🌿 [YouTube — @plainsight37](https://youtube.com/@plainsight37) · [Instagram — @fly_lume](https://instagram.com/fly_lume)
+🌿 [GitHub](https://github.com/syllik) · [syllik@gmail.com](mailto:syllik@gmail.com)
 
 <details>
 <summary>✨ Eine Notiz für die Zukunft</summary>

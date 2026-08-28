@@ -130,6 +130,7 @@ git config --show-origin --get user.email
 git config --show-origin --get user.signingkey
 git config --show-origin --get commit.gpgsign
 git config --show-origin --get gpg.program
+git config --show-origin --get gpg.format
 ~~~
 
 `file:.git/config` имеет приоритет. Удалите локальную идентичность:
@@ -161,7 +162,7 @@ git verify-commit HEAD
 
 Храните закрытый ключ и сертификат отзыва зашифрованными и офлайн. Передавайте только открытый ключ.
 
-🌿 [YouTube — @plainsight37](https://youtube.com/@plainsight37) · [Instagram — @fly_lume](https://instagram.com/fly_lume)
+🌿 [GitHub](https://github.com/syllik) · [syllik@gmail.com](mailto:syllik@gmail.com)
 
 <details>
 <summary>✨ Заметка на будущее</summary>

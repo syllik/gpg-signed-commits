@@ -111,6 +111,7 @@ git config --show-origin --get user.email
 git config --show-origin --get user.signingkey
 git config --show-origin --get commit.gpgsign
 git config --show-origin --get gpg.program
+git config --show-origin --get gpg.format
 ~~~
 
 `file:.git/config` global config-কে override করে। Repository-র ভিতরে local identity সরাতে `--global` ছাড়া চালান:
@@ -144,7 +145,7 @@ git verify-commit HEAD
 
 Private key এবং revocation certificate-এর encrypted offline backup রাখুন। শুধু public key share করুন।
 
-🌿 [YouTube — @plainsight37](https://youtube.com/@plainsight37) · [Instagram — @fly_lume](https://instagram.com/fly_lume)
+🌿 [GitHub](https://github.com/syllik) · [syllik@gmail.com](mailto:syllik@gmail.com)
 
 <details>
 <summary>✨ ভবিষ্যতের জন্য একটি নোট</summary>

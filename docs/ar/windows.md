@@ -102,6 +102,7 @@ git config --show-origin --get user.email
 git config --show-origin --get user.signingkey
 git config --show-origin --get commit.gpgsign
 git config --show-origin --get gpg.program
+git config --show-origin --get gpg.format
 ~~~
 
 تتغلب `file:.git/config` على الإعداد العام. داخل المستودع:
@@ -133,7 +134,7 @@ git verify-commit HEAD
 
 استخدم Kleopatra أو GnuPG لحفظ نسخة مشفرة وغير متصلة من المفتاح الخاص وشهادة الإلغاء. شارك المفتاح العام فقط.
 
-🌿 [YouTube — @plainsight37](https://youtube.com/@plainsight37) · [Instagram — @fly_lume](https://instagram.com/fly_lume)
+🌿 [GitHub](https://github.com/syllik) · [syllik@gmail.com](mailto:syllik@gmail.com)
 
 <details>
 <summary>✨ ملاحظة للمستقبل</summary>
