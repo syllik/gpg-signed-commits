@@ -49,4 +49,3 @@ This guide is dedicated to the public domain under [CC0 1.0](LICENSE). Copy it, 
 
 - [YouTube — @plainsight37](https://youtube.com/@plainsight37)
 - [Instagram — @fly_lume](https://instagram.com/fly_lume)
-- [Telegram — @syllik](https://t.me/syllik)

@@ -179,7 +179,7 @@ Renew an expiring key and update GitHub if necessary. Set `user.signingkey` to t
 
 Use Kleopatra or GnuPG to keep an encrypted offline backup of your private key and revocation certificate. Share only the public key.
 
-🌿 [YouTube — @plainsight37](https://youtube.com/@plainsight37) · [Instagram — @fly_lume](https://instagram.com/fly_lume) · [Telegram — @syllik](https://t.me/syllik)
+🌿 [YouTube — @plainsight37](https://youtube.com/@plainsight37) · [Instagram — @fly_lume](https://instagram.com/fly_lume)
 
 <details>
 <summary>✨ A note for the future</summary>

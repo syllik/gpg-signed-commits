@@ -161,7 +161,7 @@ Recherchez `gpg: Good signature from ...`, puis faites `git push`. Le commit Git
 
 Gardez une sauvegarde chiffrée hors ligne de la clé privée et du certificat de révocation. Partagez seulement la clé publique.
 
-🌿 [YouTube — @plainsight37](https://youtube.com/@plainsight37) · [Instagram — @fly_lume](https://instagram.com/fly_lume) · [Telegram — @syllik](https://t.me/syllik)
+🌿 [YouTube — @plainsight37](https://youtube.com/@plainsight37) · [Instagram — @fly_lume](https://instagram.com/fly_lume)
 
 <details>
 <summary>✨ Une note pour l'avenir</summary>

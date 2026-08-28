@@ -144,7 +144,7 @@ Busca `gpg: Good signature from ...`. Ejecuta `git push` y abre el commit en Git
 
 Guarda una copia cifrada y sin conexión de la clave privada y del certificado de revocación. Comparte únicamente la clave pública.
 
-🌿 [YouTube — @plainsight37](https://youtube.com/@plainsight37) · [Instagram — @fly_lume](https://instagram.com/fly_lume) · [Telegram — @syllik](https://t.me/syllik)
+🌿 [YouTube — @plainsight37](https://youtube.com/@plainsight37) · [Instagram — @fly_lume](https://instagram.com/fly_lume)
 
 <details>
 <summary>✨ Una nota para el futuro</summary>

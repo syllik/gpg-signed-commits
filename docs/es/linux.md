@@ -163,7 +163,7 @@ Debe aparecer `gpg: Good signature from ...`. Después de `git push`, GitHub deb
 
 Guarda cifradas y sin conexión la clave privada y el certificado de revocación. Solo comparte la clave pública.
 
-🌿 [YouTube — @plainsight37](https://youtube.com/@plainsight37) · [Instagram — @fly_lume](https://instagram.com/fly_lume) · [Telegram — @syllik](https://t.me/syllik)
+🌿 [YouTube — @plainsight37](https://youtube.com/@plainsight37) · [Instagram — @fly_lume](https://instagram.com/fly_lume)
 
 <details>
 <summary>✨ Una nota para el futuro</summary>

@@ -144,7 +144,7 @@ git verify-commit HEAD
 
 Private key اور revocation certificate کا encrypted offline backup رکھیں۔ صرف public key share کریں۔
 
-🌿 [YouTube — @plainsight37](https://youtube.com/@plainsight37) · [Instagram — @fly_lume](https://instagram.com/fly_lume) · [Telegram — @syllik](https://t.me/syllik)
+🌿 [YouTube — @plainsight37](https://youtube.com/@plainsight37) · [Instagram — @fly_lume](https://instagram.com/fly_lume)
 
 <details>
 <summary>✨ مستقبل کے لیے ایک نوٹ</summary>

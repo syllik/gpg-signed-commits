@@ -133,7 +133,7 @@ Kleopatra oder pinentry fragt nach der Passphrase. Suche `gpg: Good signature fr
 
 Bewahre mit Kleopatra oder GnuPG private Schlüssel und Widerrufszertifikat verschlüsselt offline auf. Teile nur den öffentlichen Schlüssel.
 
-🌿 [YouTube — @plainsight37](https://youtube.com/@plainsight37) · [Instagram — @fly_lume](https://instagram.com/fly_lume) · [Telegram — @syllik](https://t.me/syllik)
+🌿 [YouTube — @plainsight37](https://youtube.com/@plainsight37) · [Instagram — @fly_lume](https://instagram.com/fly_lume)
 
 <details>
 <summary>✨ Eine Notiz für die Zukunft</summary>

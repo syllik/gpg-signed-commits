@@ -161,7 +161,7 @@ git verify-commit HEAD
 
 احفظ المفتاح الخاص وشهادة الإلغاء مشفرين وغير متصلين. شارك المفتاح العام فقط.
 
-🌿 [YouTube — @plainsight37](https://youtube.com/@plainsight37) · [Instagram — @fly_lume](https://instagram.com/fly_lume) · [Telegram — @syllik](https://t.me/syllik)
+🌿 [YouTube — @plainsight37](https://youtube.com/@plainsight37) · [Instagram — @fly_lume](https://instagram.com/fly_lume)
 
 <details>
 <summary>✨ ملاحظة للمستقبل</summary>

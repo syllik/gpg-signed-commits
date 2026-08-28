@@ -133,7 +133,7 @@ Kleopatra ou pinentry demande la phrase secrète. Recherchez `gpg: Good signatur
 
 Avec Kleopatra ou GnuPG, conservez hors ligne une copie chiffrée de la clé privée et du certificat de révocation. Partagez uniquement la clé publique.
 
-🌿 [YouTube — @plainsight37](https://youtube.com/@plainsight37) · [Instagram — @fly_lume](https://instagram.com/fly_lume) · [Telegram — @syllik](https://t.me/syllik)
+🌿 [YouTube — @plainsight37](https://youtube.com/@plainsight37) · [Instagram — @fly_lume](https://instagram.com/fly_lume)
 
 <details>
 <summary>✨ Une note pour l'avenir</summary>

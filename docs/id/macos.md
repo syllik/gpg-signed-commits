@@ -142,7 +142,7 @@ Cari pesan `gpg: Good signature from ...`. Jalankan `git push` dan buka commit d
 
 Simpan cadangan terenkripsi dan offline untuk kunci privat serta sertifikat pencabutan. Bagikan hanya kunci publik.
 
-🌿 [YouTube — @plainsight37](https://youtube.com/@plainsight37) · [Instagram — @fly_lume](https://instagram.com/fly_lume) · [Telegram — @syllik](https://t.me/syllik)
+🌿 [YouTube — @plainsight37](https://youtube.com/@plainsight37) · [Instagram — @fly_lume](https://instagram.com/fly_lume)
 
 <details>
 <summary>✨ Catatan untuk masa depan</summary>

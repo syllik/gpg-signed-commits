@@ -144,7 +144,7 @@ git verify-commit HEAD
 
 احتفظ بنسخة مشفرة وغير متصلة من المفتاح الخاص وشهادة الإلغاء. شارك المفتاح العام فقط.
 
-🌿 [YouTube — @plainsight37](https://youtube.com/@plainsight37) · [Instagram — @fly_lume](https://instagram.com/fly_lume) · [Telegram — @syllik](https://t.me/syllik)
+🌿 [YouTube — @plainsight37](https://youtube.com/@plainsight37) · [Instagram — @fly_lume](https://instagram.com/fly_lume)
 
 <details>
 <summary>✨ ملاحظة للمستقبل</summary>

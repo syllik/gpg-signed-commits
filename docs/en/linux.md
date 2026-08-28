@@ -196,7 +196,7 @@ Look for `gpg: Good signature from ...`. Push with `git push` and open the commi
 
 Keep an encrypted offline backup of the private key and revocation certificate. The public key is shareable; the secret key is not.
 
-🌿 [YouTube — @plainsight37](https://youtube.com/@plainsight37) · [Instagram — @fly_lume](https://instagram.com/fly_lume) · [Telegram — @syllik](https://t.me/syllik)
+🌿 [YouTube — @plainsight37](https://youtube.com/@plainsight37) · [Instagram — @fly_lume](https://instagram.com/fly_lume)
 
 <details>
 <summary>✨ A note for the future</summary>

@@ -139,7 +139,7 @@ Kleopatra 或 pinentry 应请求密码，并出现 `gpg: Good signature from ...
 
 用 Kleopatra 或 GnuPG 加密保存私钥和撤销证书的离线备份，只分享公钥。
 
-🌿 [YouTube — @plainsight37](https://youtube.com/@plainsight37) · [Instagram — @fly_lume](https://instagram.com/fly_lume) · [Telegram — @syllik](https://t.me/syllik)
+🌿 [YouTube — @plainsight37](https://youtube.com/@plainsight37) · [Instagram — @fly_lume](https://instagram.com/fly_lume)
 
 <details>
 <summary>✨ 给未来的一句话</summary>

@@ -133,7 +133,7 @@ Kleopatra atau pinentry akan meminta passphrase. Cari `gpg: Good signature from 
 
 Dengan Kleopatra atau GnuPG, simpan cadangan terenkripsi offline untuk kunci privat dan sertifikat pencabutan. Bagikan hanya kunci publik.
 
-🌿 [YouTube — @plainsight37](https://youtube.com/@plainsight37) · [Instagram — @fly_lume](https://instagram.com/fly_lume) · [Telegram — @syllik](https://t.me/syllik)
+🌿 [YouTube — @plainsight37](https://youtube.com/@plainsight37) · [Instagram — @fly_lume](https://instagram.com/fly_lume)
 
 <details>
 <summary>✨ Catatan untuk masa depan</summary>

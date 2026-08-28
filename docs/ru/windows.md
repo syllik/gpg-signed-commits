@@ -133,7 +133,7 @@ Kleopatra или pinentry запросит пароль. Ищите `gpg: Good s
 
 В Kleopatra или GnuPG храните зашифрованную офлайн-копию закрытого ключа и сертификата отзыва. Делитесь только открытым ключом.
 
-🌿 [YouTube — @plainsight37](https://youtube.com/@plainsight37) · [Instagram — @fly_lume](https://instagram.com/fly_lume) · [Telegram — @syllik](https://t.me/syllik)
+🌿 [YouTube — @plainsight37](https://youtube.com/@plainsight37) · [Instagram — @fly_lume](https://instagram.com/fly_lume)
 
 <details>
 <summary>✨ Заметка на будущее</summary>

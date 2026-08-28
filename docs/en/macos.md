@@ -245,7 +245,7 @@ Renew an expiring key before it expires and update GitHub when appropriate. With
 
 Back up the private key and revocation certificate offline, encrypted and separately from your computer. Never put them in this repository. The public key may be shared; the secret key may not.
 
-🌿 [YouTube — @plainsight37](https://youtube.com/@plainsight37) · [Instagram — @fly_lume](https://instagram.com/fly_lume) · [Telegram — @syllik](https://t.me/syllik)
+🌿 [YouTube — @plainsight37](https://youtube.com/@plainsight37) · [Instagram — @fly_lume](https://instagram.com/fly_lume)
 
 <details>
 <summary>✨ A note for the future</summary>

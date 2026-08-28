@@ -155,7 +155,7 @@ git verify-commit HEAD
 
 离线、加密备份私钥和撤销证书，不要放进此仓库。公钥可以分享，秘密密钥不可以。
 
-🌿 [YouTube — @plainsight37](https://youtube.com/@plainsight37) · [Instagram — @fly_lume](https://instagram.com/fly_lume) · [Telegram — @syllik](https://t.me/syllik)
+🌿 [YouTube — @plainsight37](https://youtube.com/@plainsight37) · [Instagram — @fly_lume](https://instagram.com/fly_lume)
 
 <details>
 <summary>✨ 给未来的一句话</summary>
